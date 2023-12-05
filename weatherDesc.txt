@@ -1,0 +1,10 @@
+location	Basel	Basel	Basel	Basel	Basel	Basel	Basel
+lat	47.75	47.75	47.75	47.75	47.75	47.75	47.75
+lon	7.5	7.5	7.5	7.5	7.5	7.5	7.5
+asl	363.653	363.653	363.653	363.653	363.653	363.653	363.653
+variable	Temperature	Precipitation Total	Relative Humidity	Wind Speed	Wind Direction	Cloud Cover Total	Sunshine Duration
+unit	°C	mm	%	km/h	°	%	min
+level	2 m elevation corrected	sfc	2 m	10 m	10 m	sfc	sfc
+resolution	hourly	hourly	hourly	hourly	hourly	hourly	hourly
+aggregation	None	None	None	None	None	None	None
+
